@@ -1,0 +1,176 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.fotos {
+    padding-left: 300px;
+    padding-right: 250px;
+    width: 60%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.imagenprincipal {
+    width: 100%;
+}
+
+.subtitulos {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: lighter;
+    margin-left: 370px;
+    margin-right: 370px;
+    text-align: center;
+    font-size:70px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 410px;
+    margin-right: 410px;
+    margin-top: 50px;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+#textito {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 420px;
+    margin-right: 420px;
+    font-size: 20px;
+    margin-bottom: -2%;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+#negrita {
+    font-weight: bold;
+}
+
+#negritacursiva {
+    font-style: italic;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: black;   
+}
+
+#palabreja {
+    font-style: italic;
+}
+
+#banner {
+    padding-left: 410px;
+    padding-right: 250px;
+    width: 42%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr {
+    width: 42%;
+    color: lightgray;
+    border-style: dotted;
+}
+
+div {
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: -5%;
+}
+
+#trust {
+    background-color: lightgray;
+}
+
+#iconos {
+    width: 25%;  
+}
+
+#iconos2 {
+    width: 10%;
+    margin-top: -40px;
+}
+
+#textogris {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    font-size: 13pt;
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+
+#textogris2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    font-size: 9pt;
+    font-weight: normal;
+    margin-bottom: 5%;
+    text-align: center;
+    margin-top: -90px;
+}
+
+.tengosueño {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    max-width: 600px;    
+}
+
+#masinfo {
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#linea {
+    margin-top: 100px;
+    width:600px;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 0.5px;
+    margin-bottom: -80px;
+}
+
+#archivado {
+    text-align: left;
+    font-weight: bold;
+    font-size: smaller;
+}
+
+#footer {
+    margin-top: auto;
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+    margin-bottom: 100px;
+}
+#footer a {
+    text-decoration: none;
+    color: gray;
+}
+
+#pe {
+    width: 20%;
+    height: 20%;
+}
