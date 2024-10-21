@@ -1,0 +1,86 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ,sans-serif;
+    margin: auto;
+}
+
+img {
+
+    padding-bottom: 110px;
+    max-width: 1420px;
+}
+
+#listaarriba{
+    list-style-type: none;
+    margin-top: 40px;
+    font-size: medium;
+}
+
+#listaarriba li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+h1 {
+    font-weight: 1 ;
+    line-height: 20pt;
+    padding-right: 430px ;
+    padding-left: 430px;
+}
+
+ul {
+    color: rgb(170, 168, 168);
+    font-size: 8pt;
+    font-weight: lighter;
+    line-height: 18pt;
+    list-style-type: none;
+    padding-right: 430px ;
+    padding-left: 430px;
+    padding-bottom: 140px;
+}
+
+
+p {
+    font-weight: lighter;
+    line-height: 23pt;
+    font-size:large;
+    padding-right: 430px ;
+    padding-left: 430px ;
+    padding-bottom: 110px;
+    padding-top: 10px;
+}    
+
+h2 {
+    padding-right: 430px ;
+    padding-left: 430px ;
+    color: rgb(170, 168, 168);
+    font-weight: lighter;
+    font-size: 8pt;
+}   
+
+#otralista {
+    color: white;
+    font-size: 14pt;
+    font-weight: lighter;
+    line-height: 35pt;
+    list-style-type: none;
+    padding-right: 430px ;
+    padding-left: 430px;
+    padding-top: 220px;
+    padding-bottom: 200px;
+    background-color: black;
+}
+
+a { text-decoration: none;
+    color: rgb(170, 168, 168);
+}
+
+
+.notachado:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.tachado:hover {
+    text-decoration: line-through;
+    color: rgb(22, 22, 105);
+}
