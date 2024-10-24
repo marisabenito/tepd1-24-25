@@ -1,0 +1,30 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h2 {
+    color: rgb(226, 178, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+header {
+    background-color: rgb(230, 193, 216);
+    color: rgb(193, 51, 51);
+}
+
+section {
+    background-color: rgb(251, 245, 238);
+    color: rgb(230, 193, 216);;
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: hue-rotate(300deg);
+}
