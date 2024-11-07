@@ -1,0 +1,27 @@
+h1 {
+    font-family: Bodoni;
+    font-size: 50px;
+    font-style: italic;
+    padding-left: 5%;
+    background: -webkit-linear-gradient(#bc2222, #333);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+  .galeria{
+    display: flex;
+    flex-flow: wrap;
+    justify-content:center;
+    gap: 2px; 
+}
+
+  .galeria img{
+    max-width: 250px;
+    padding: 0.5rem;
+  }
+
+  a:hover img {
+    filter: grayscale(50%);
+}
+
+
