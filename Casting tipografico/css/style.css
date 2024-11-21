@@ -1,0 +1,85 @@
+h1 {
+    font-family: Arial, 'Helvetica', sans-serif;
+    font-size: 35px;
+    font-weight: normal;
+    padding-left: auto;
+}
+
+.ejemplos {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.ejemplos p {
+    max-width: 450px;
+    padding: 0.5rem;
+}
+
+
+.titulos {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 450px;
+    padding: 2rem;
+}
+
+.t1 {
+    font-family: "Bonbon";
+}
+
+.t2 {
+    font-family: "Garamond";
+}
+
+.t3 {
+    font-family: "Fontdiner";
+}
+
+.t4 {
+    font-family: "Giveyouglory";
+}
+
+.t5 {
+    font-family: "Permanent";
+}
+
+.t6 {
+    font-family: "Tourney";
+}
+
+
+@font-face {
+    font-family: "Bonbon";
+    src: url(../fuentes/Bonbon-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: "Garamond";
+    src: url(../fuentes/EBGaramond-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "Fontdiner";
+    src: url(../fuentes/FontdinerSwanky-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: "Giveyouglory";
+    src: url(../fuentes/GiveYouGlory-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Permanent";
+    src: url(../fuentes/PermanentMarker-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Tourney";
+    src: url(../fuentes/Tourney-VariableFont_wdth\,wght.ttf);
+}
