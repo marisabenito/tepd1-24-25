@@ -1,0 +1,42 @@
+body {
+
+    background-color: rgb(255, 255, 255);
+}
+
+.a {
+    height: 100vh;
+}
+
+.b {
+    height: 30vh;
+}
+
+.c {
+    height: 70vh;
+}
+
+.d {
+    height: 15vh;
+}
+
+.columna-5 {
+    background-color: pink;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.row.full-height {
+    height: 100%;
+}
+
+.stretch {
+    height: 100%;
+}
